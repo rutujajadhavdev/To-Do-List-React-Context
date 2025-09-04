@@ -57,7 +57,7 @@ const addToDo = (task) => {
     >
        <div className="min-h-screen bg-cover bg-center"
   style={{ backgroundImage: "url('https://images.unsplash.com/photo-1557683311-eac922347aa1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLWxpa2VkfDIwfHx8ZW58MHx8fHx8')" }}>
-
+      <h1 className="text-4xl font-bold text-center text-white mb-6 drop-shadow-lg py-10">To-Do List</h1>
      <ToDoForm />
   <div className="flex flex-col items-center gap-y-3">
                         {/*Loop and Add TodoItem here */}

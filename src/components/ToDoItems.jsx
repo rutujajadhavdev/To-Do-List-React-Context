@@ -20,7 +20,8 @@ function ToDoItems({ task }) {
     
     // ToDo: change color for task completed
     <div
-      className={`flex border border-black/10 rounded-lg px-3 py-1.5 gap-x-3 shadow-sm shadow-stone- duration-300  text-black/75 ${task.completed ? "bg-[#5bb6f9]" : "bg-violet-500"}`}
+
+      className={ `w-[500px]  flex border border-black/10 rounded-lg px-3 py-1.5 gap-x-3 shadow-sm shadow-stone- duration-300  text-black/75 ${task.completed ? "bg-[#5bb6f9]" : "bg-violet-500"}`}
     >
       <input
         type="checkbox"
