@@ -45,5 +45,6 @@ Context API – State management
 Tailwind CSS – Styling
 
 ### 📸 Preview
-<img width="1105" height="706" alt="image" src="https://github.com/user-attachments/assets/89ad967e-76b4-4b6a-8780-b01b1f195fd4" />
+<img width="1390" height="901" alt="image" src="https://github.com/user-attachments/assets/97e65b6d-6124-4555-8857-d3fccc44bf19" />
+
 
